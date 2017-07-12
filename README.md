@@ -1,19 +1,8 @@
 blockchain
 =====
 
-node.js module to access the blockchain websocket api
+blockchain websocket api
 
-[![Build Status](https://travis-ci.org/abrkn/blockchain.png)](https://travis-ci.org/abrkn/blockchain)
-
-installation
------
-
-`npm install blockchain`
-
-donations
------
-
-1Kk26TMvgxFavxuLTNdkmh7iHzs2A7524y
 
 methods
 -----
